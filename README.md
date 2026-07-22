@@ -47,6 +47,28 @@
 <a target="_blank" href="https://www.youtube.com/https://www.youtube.com/@Nikhil_Subramanian" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a>
 <a target="_blank" href="https://stackoverflow.com/users/https://stackoverflow.com/users/32959993/nikhil-subramanian" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
 
+
+<h3 align="left">📞 Contact Me</h3>
+
+<p align="left">
+
+<a href="tel:+918095216477">
+<img src="https://img.shields.io/badge/Call-%2B91%20XXXXXXXXXX-0A66C2?style=for-the-badge&logo=phone&logoColor=white" alt="Call"/>
+</a>
+
+<a href="https://wa.me/918095216477" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+
+<a href="mailto:nikhil1443@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</p>
+
+📱 **Phone:** +91 8095216477
+💬 **WhatsApp:** +91 8095216477
+
 ---
 
 ### 🎯 What I'm Doing
