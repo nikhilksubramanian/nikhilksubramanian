@@ -39,29 +39,7 @@
 <a target="_blank" href="https://symfony.com/logos/symfony_black_03.svg" style="display: inline-block;"><img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="42" height="42" /></a>
 <a target="_blank" href="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
-<h2>🔗 Where to find me</h2>
-<p><a target="_blank" href="https://x.com/https://x.com/Nikhil_K_S" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
-<a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/nikhilksubramanian" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
-<a target="_blank" href="https://www.facebook.com/https://www.facebook.com/NikhilKSubramanian" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
-<a target="_blank" href="https://www.instagram.com/https://www.instagram.com/nikhil_subramanian" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
-<a target="_blank" href="https://www.youtube.com/https://www.youtube.com/@Nikhil_Subramanian" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a>
-<a target="_blank" href="https://stackoverflow.com/users/https://stackoverflow.com/users/32959993/nikhil-subramanian" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
 
-<h3 align="left"> 📲 Get in Touch </h3>
-
-<p align="left">
-
-<a href="tel:+918095216477">
-  <img src="https://img.shields.io/badge/📞%20Call%20Me-%2B91%208095216477-0A66C2?style=for-the-badge" alt="Call Me"/>
-</a>
-<a href="https://wa.me/918095216477" target="_blank">
-<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-</a>
-<a href="mailto:nikhil1443@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</p>
 
 ---
 
@@ -178,3 +156,28 @@
 - ⚡ Automating server administration using Bash, PowerShell & Python
 - 🌍 Passionate about Networking, DNS, SSL/TLS & Infrastructure Security
 - 🚀 Continuously learning Cloud Computing, DevOps & Cybersecurity
+
+
+<h2>🔗 Where to find me</h2>
+<p><a target="_blank" href="https://x.com/https://x.com/Nikhil_K_S" style="display: inline-block;"><img src="https://img.shields.io/badge/twitter-x?style=for-the-badge&logo=x&logoColor=white&color=%230f1419" alt="twitter" /></a>
+<a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/nikhilksubramanian" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
+<a target="_blank" href="https://www.facebook.com/https://www.facebook.com/NikhilKSubramanian" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
+<a target="_blank" href="https://www.instagram.com/https://www.instagram.com/nikhil_subramanian" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
+<a target="_blank" href="https://www.youtube.com/https://www.youtube.com/@Nikhil_Subramanian" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a>
+<a target="_blank" href="https://stackoverflow.com/users/https://stackoverflow.com/users/32959993/nikhil-subramanian" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
+
+<h3 align="left"> 📲 Get in Touch </h3>
+
+<p align="left">
+
+<a href="tel:+918095216477">
+  <img src="https://img.shields.io/badge/📞%20Call%20Me-%2B91%208095216477-0A66C2?style=for-the-badge" alt="Call Me"/>
+</a>
+<a href="https://wa.me/918095216477" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+</a>
+<a href="mailto:nikhil1443@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</p>
