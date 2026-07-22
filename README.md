@@ -47,7 +47,7 @@
 <a target="_blank" href="https://www.youtube.com/https://www.youtube.com/@Nikhil_Subramanian" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a>
 <a target="_blank" href="https://stackoverflow.com/users/https://stackoverflow.com/users/32959993/nikhil-subramanian" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
 
-<h3 align="left">📞 Contact Me</h3>
+<h3 align="left">🤝 Let's Connect</h3>
 
 <p align="left">
 
