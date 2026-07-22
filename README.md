@@ -48,3 +48,17 @@
 <a target="_blank" href="https://www.youtube.com/https://www.youtube.com/@Nikhil_Subramanian" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a>
 <a target="_blank" href="https://stackoverflow.com/users/https://stackoverflow.com/users/32959993/nikhil-subramanian" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
 
+---
+
+### 🎯 What I'm Doing
+
+- 🖥️ **Managing:** Linux & Windows Server infrastructure, web hosting, and virtualization
+- ☁️ **Working with:** Cloudflare, Firebase Hosting, DNS management, OpenVPN, SSL/TLS, and CDN optimization
+- 🐳 **Learning:** Docker, Kubernetes, CI/CD pipelines, and modern DevOps practices
+- 🔐 **Exploring:** Bug Bounty, Web Application Security, API Security, and Ethical Hacking
+- ⚡ **Automating:** Server administration using Bash, PowerShell, Python, and scheduled automation scripts
+- 🌐 **Building:** Reliable hosting solutions, secure server environments, and scalable web applications
+- 💬 **Ask me about:** Linux • Windows Server • cPanel • Plesk • Networking • Cloudflare • Firebase • DevOps • Server Security
+- 🚀 **Currently focused on:** Expanding my skills in Cybersecurity, Cloud Infrastructure, and AI-assisted Security
+
+---
