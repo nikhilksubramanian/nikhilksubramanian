@@ -47,7 +47,7 @@
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/nikhil_subramanian" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://www.youtube.com/https://www.youtube.com/@Nikhil_Subramanian" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a>
 <a target="_blank" href="https://stackoverflow.com/users/https://stackoverflow.com/users/32959993/nikhil-subramanian" style="display: inline-block;"><img src="https://img.shields.io/badge/stackoverflow-logo?style=for-the-badge&logo=stackoverflow&logoColor=white&color=%23cc0000" alt="stackoverflow" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilksubramanian&show_icons=true&theme=tokyonight" alt="nikhilksubramanian" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nikhilksubramanian&layout=compact&theme=tokyonight" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilksubramanian&theme=tokyonight" alt="nikhilksubramanian" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilksubramanian&layout=compact&theme=tokyonight" alt="nikhilksubramanian" /></p>
 <p><img src="https://github-profile-trophy.vercel.app/?username=nikhilksubramanian&theme=tokyonight" alt="nikhilksubramanian" /></p>
