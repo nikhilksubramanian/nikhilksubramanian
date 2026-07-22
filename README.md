@@ -54,15 +54,9 @@
 <a href="tel:+918095216477">
   <img src="https://img.shields.io/badge/📞%20Call%20Me-%2B91%208095216477-0A66C2?style=for-the-badge" alt="Call Me"/>
 </a>
-<p align="left">
-  <a href="tel:+918095216477">
-    <img src="https://img.shields.io/badge/Call%20Me-+91%208095216477-0A66C2?style=for-the-badge&logo=phone&logoColor=white"/>
-  </a>
-
 <a href="https://wa.me/918095216477" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
-
 <a href="mailto:nikhil1443@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
