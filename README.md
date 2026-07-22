@@ -62,3 +62,104 @@
 - 🚀 **Currently focused on:** Expanding my skills in Cybersecurity, Cloud Infrastructure, and AI-assisted Security
 
 ---
+
+### 🧰 Tech I Work With
+
+**💻 Server Administration**
+<p>
+  <img height="24" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
+  <img height="24" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/AlmaLinux-000000?logo=almalinux&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Rocky_Linux-10B981?logo=rockylinux&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Windows_Server-0078D6?logo=windows&logoColor=white"/>
+</p>
+
+**🌐 Web Hosting & Control Panels**
+<p>
+  <img height="24" src="https://img.shields.io/badge/cPanel-FF6C2C?logo=cpanel&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Plesk-52BBE6?logo=plesk&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/WHM-FF6C2C?logo=cpanel&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/OpenLiteSpeed-FF6600?logo=openlitespeed&logoColor=white"/>
+</p>
+
+**☁️ Cloud & Hosting**
+<p>
+  <img height="24" src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/GitHub_Pages-121013?logo=github&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white"/>
+</p>
+
+**🐳 DevOps & Virtualization**
+<p>
+  <img height="24" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/VMware-607078?logo=vmware&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Hyper--V-0078D6?logo=microsoft&logoColor=white"/>
+</p>
+
+**⚙️ Scripting & Development**
+<p>
+  <img height="24" src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black"/>
+</p>
+
+**🗄️ Databases**
+<p>
+  <img height="24" src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white"/>
+</p>
+
+**🌍 Networking & Infrastructure**
+<p>
+  <img height="24" src="https://img.shields.io/badge/DNS-00599C?logo=icloud&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/SSL/TLS-009639?logo=letsencrypt&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/OpenVPN-EA7E20?logo=openvpn&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Cloud_DNS-F38020?logo=cloudflare&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/IPv4-0052CC?logo=internetarchive&logoColor=white"/>
+</p>
+
+**🛡️ Cybersecurity**
+<p>
+  <img height="24" src="https://img.shields.io/badge/Bug_Bounty-FF6B35?logo=hackerone&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Web_Security-000000?logo=owasp&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Nmap-004F8B?logo=nmap&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Burp_Suite-FF6633?logo=burpsuite&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/TryHackMe-FF2C2C?logo=tryhackme&logoColor=white"/>
+</p>
+
+**🛠️ Tools**
+<p>
+  <img height="24" src="https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>
+  <img height="24" src="https://img.shields.io/badge/Terminal-000000?logo=gnubash&logoColor=white"/>
+</p>
+
+---
+
+### 🌟 Highlights
+
+- 🖥️ Experienced in Linux & Windows Server administration
+- 🌐 Deploying and managing websites using cPanel, Plesk, Cloudflare & Firebase
+- ☁️ Building and managing secure hosting environments
+- 🔒 Learning Bug Bounty, Web Security & Ethical Hacking
+- 🐳 Exploring Docker, Kubernetes & modern DevOps practices
+- ⚡ Automating server administration using Bash, PowerShell & Python
+- 🌍 Passionate about Networking, DNS, SSL/TLS & Infrastructure Security
+- 🚀 Continuously learning Cloud Computing, DevOps & Cybersecurity
