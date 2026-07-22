@@ -52,7 +52,7 @@
 <p align="left">
 
 <a href="tel:+918095216477">
-<img src="https://img.shields.io/badge/Call-%2B91%208095216477-0A66C2?style=for-the-badge&logo=phone&logoColor=white" alt="Ph"/>
+  <img src="https://img.shields.io/badge/📞%20Call%20Me-%2B91%208095216477-0A66C2?style=for-the-badge" alt="Call Me"/>
 </a>
 
 <a href="https://wa.me/918095216477" target="_blank">
